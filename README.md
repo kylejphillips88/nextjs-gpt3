@@ -1,5 +1,6 @@
 
 This app was created following Coding in Flow's Tutorial on Youtube "Build and Deploy a GPT-3 App in NextJS"
+
 Link to tutorial: https://youtu.be/5i1Q2GSqidU
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
